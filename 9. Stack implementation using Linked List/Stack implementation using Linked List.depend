@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1690077179 source:c:\users\mahfuz\documents\github\dsa-templates\9. stack implementation using linked list\stacktype.cpp
+	"StackType.h"
+
+1690077078 c:\users\mahfuz\documents\github\dsa-templates\9. stack implementation using linked list\stacktype.h
+	<iostream>
+

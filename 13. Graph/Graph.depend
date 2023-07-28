@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1690515246 source:c:\users\mahfuz\documents\github\dsa-templates\graph\graphtype.cpp
+	"GraphType.h"
+	"StackType.cpp"
+	"QueType.cpp"
+	<iostream>
+
+1690512867 c:\users\mahfuz\documents\github\dsa-templates\graph\graphtype.h
+	"StackType.h"
+	"QueType.h"
+
+1690512812 c:\users\mahfuz\documents\github\dsa-templates\graph\stacktype.h
+	<iostream>
+
+1690512841 c:\users\mahfuz\documents\github\dsa-templates\graph\quetype.h
+
+1690512847 source:c:\users\mahfuz\documents\github\dsa-templates\graph\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1690512822 source:c:\users\mahfuz\documents\github\dsa-templates\graph\stacktype.cpp
+	"StackType.h"
+
+1690512822 c:\users\mahfuz\documents\github\dsa-templates\graph\stacktype.cpp
+	"StackType.h"
+
+1690512847 c:\users\mahfuz\documents\github\dsa-templates\graph\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1690513177 source:c:\users\mahfuz\documents\github\dsa-templates\graph\main.cpp
+	"GraphType.cpp"
+
+1690515297 c:\users\mahfuz\documents\github\dsa-templates\graph\graphtype.cpp
+	"GraphType.h"
+	"StackType.cpp"
+	"QueType.cpp"
+	<iostream>
+

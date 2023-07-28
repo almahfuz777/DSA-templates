@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\mahfuz\documents\github\dsa-templates\queue implementation using linked list\main.cpp
+	<iostream>
+
+1690078410 source:c:\users\mahfuz\documents\github\dsa-templates\queue implementation using linked list\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1690078392 c:\users\mahfuz\documents\github\dsa-templates\queue implementation using linked list\quetype.h
+
+1690078410 source:c:\users\mahfuz\documents\github\dsa-templates\11. queue implementation using linked list\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1690078392 c:\users\mahfuz\documents\github\dsa-templates\11. queue implementation using linked list\quetype.h
+
+1690287112 source:c:\users\mahfuz\documents\github\dsa-templates\11. queue implementation using linked list\main.cpp
+	"QueType.cpp"
+	<iostream>
+
+1690078410 c:\users\mahfuz\documents\github\dsa-templates\11. queue implementation using linked list\quetype.cpp
+	"QueType.h"
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690391968 source:c:\users\mahfuz\documents\github\dsa-templates\10. queue implementation using array\quetype.cpp
+	"quetype.h"
+
+1690077783 c:\users\mahfuz\documents\github\dsa-templates\10. queue implementation using array\quetype.h
+
+1690392302 source:c:\users\mahfuz\documents\github\dsa-templates\10. queue implementation using array\main.cpp
+	"QueType.cpp"
+	<iostream>
+
+1690391968 c:\users\mahfuz\documents\github\dsa-templates\10. queue implementation using array\quetype.cpp
+	"quetype.h"
+

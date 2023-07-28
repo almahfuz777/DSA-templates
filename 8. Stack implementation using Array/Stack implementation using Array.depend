@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1690073542 source:c:\users\mahfuz\documents\github\dsa-templates\stack implementation using array\main.cpp
+	"StackType.cpp"
+	<iostream>
+
+1690073532 c:\users\mahfuz\documents\github\dsa-templates\stack implementation using array\stacktype.cpp
+	"StackType.h"
+
+1690073684 c:\users\mahfuz\documents\github\dsa-templates\stack implementation using array\stacktype.h
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1690455816 source:c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\main.cpp
+	"TreeType.cpp"
+
+1690452291 c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\treetype.cpp
+	"TreeType.h"
+	"QueType.cpp"
+	<iostream>
+
+1690453282 c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\treetype.h
+	"QueType.h"
+
+1690452245 c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\quetype.h
+
+1690452270 c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1690452270 source:c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1690452291 source:c:\users\mahfuz\documents\github\dsa-templates\12. binary search tree\treetype.cpp
+	"TreeType.h"
+	"QueType.cpp"
+	<iostream>
+

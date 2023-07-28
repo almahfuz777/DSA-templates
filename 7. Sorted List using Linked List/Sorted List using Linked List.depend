@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1690072963 source:c:\users\mahfuz\documents\github\dsa-templates\sorted list using linked list\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1690072726 c:\users\mahfuz\documents\github\dsa-templates\sorted list using linked list\sortedtype.h
+
+1690073011 source:c:\users\mahfuz\documents\github\dsa-templates\sorted list using linked list\main.cpp
+	"SortedType.cpp"
+	<iostream>
+
+1690072963 c:\users\mahfuz\documents\github\dsa-templates\sorted list using linked list\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1690073011 source:c:\users\mahfuz\documents\github\dsa-templates\7. sorted list using linked list\main.cpp
+	"SortedType.cpp"
+	<iostream>
+
+1690072963 c:\users\mahfuz\documents\github\dsa-templates\7. sorted list using linked list\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1690072726 c:\users\mahfuz\documents\github\dsa-templates\7. sorted list using linked list\sortedtype.h
+
+1690072963 source:c:\users\mahfuz\documents\github\dsa-templates\7. sorted list using linked list\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1690283784 source:c:\users\mahfuz\documents\github\dsa-templates\3. operator overloading\complex number\main.cpp
+	"Complex.cpp"
+
+1690283645 c:\users\mahfuz\documents\github\dsa-templates\3. operator overloading\complex number\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1690283049 c:\users\mahfuz\documents\github\dsa-templates\3. operator overloading\complex number\complex.h
+

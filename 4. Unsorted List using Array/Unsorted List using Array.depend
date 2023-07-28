@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1690067569 source:c:\users\mahfuz\documents\github\dsa-templates\unsorted list using array\main.cpp
+	"UnsortedType.cpp"
+	<iostream>
+
+1690066978 source:c:\users\mahfuz\documents\github\dsa-templates\unsorted list using array\unsortedtype.cpp
+	"UnsortedType.h"
+
+1690067026 c:\users\mahfuz\documents\github\dsa-templates\unsorted list using array\unsortedtype.h
+
+1690066978 c:\users\mahfuz\documents\github\dsa-templates\unsorted list using array\unsortedtype.cpp
+	"UnsortedType.h"
+
+1690069532 source:c:\users\mahfuz\documents\github\dsa-templates\4. unsorted list using array\main.cpp
+	"UnsortedType.cpp"
+	<iostream>
+
+1690069797 c:\users\mahfuz\documents\github\dsa-templates\4. unsorted list using array\unsortedtype.cpp
+	"UnsortedType.h"
+
+1690067026 c:\users\mahfuz\documents\github\dsa-templates\4. unsorted list using array\unsortedtype.h
+
+1690069797 source:c:\users\mahfuz\documents\github\dsa-templates\4. unsorted list using array\unsortedtype.cpp
+	"UnsortedType.h"
+

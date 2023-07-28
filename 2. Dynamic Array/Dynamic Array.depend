@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1690070434 source:c:\users\mahfuz\documents\github\dsa-templates\dynamic array\dynarr.cpp
+	"DynArr.h"
+
+1690070129 c:\users\mahfuz\documents\github\dsa-templates\dynamic array\dynarr.h
+
+1690070359 source:c:\users\mahfuz\documents\github\dsa-templates\dynamic array\main.cpp
+	"DynArr.cpp"
+	<iostream>
+
+1690070434 c:\users\mahfuz\documents\github\dsa-templates\dynamic array\dynarr.cpp
+	"DynArr.h"
+
+1690070434 source:c:\users\mahfuz\documents\github\dsa-templates\2. dynamic array\dynarr.cpp
+	"DynArr.h"
+
+1690070129 c:\users\mahfuz\documents\github\dsa-templates\2. dynamic array\dynarr.h
+
+1690070359 source:c:\users\mahfuz\documents\github\dsa-templates\2. dynamic array\main.cpp
+	"DynArr.cpp"
+	<iostream>
+
+1690070434 c:\users\mahfuz\documents\github\dsa-templates\2. dynamic array\dynarr.cpp
+	"DynArr.h"
+

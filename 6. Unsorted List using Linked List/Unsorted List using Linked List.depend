@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1690073065 source:c:\users\mahfuz\documents\github\dsa-templates\unsorted list using linked list\main.cpp
+	"UnsortedType.cpp"
+	<iostream>
+
+1690072382 c:\users\mahfuz\documents\github\dsa-templates\unsorted list using linked list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1690071824 c:\users\mahfuz\documents\github\dsa-templates\unsorted list using linked list\unsortedtype.h
+
+1690072382 source:c:\users\mahfuz\documents\github\dsa-templates\unsorted list using linked list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1690073065 source:c:\users\mahfuz\documents\github\dsa-templates\6. unsorted list using linked list\main.cpp
+	"UnsortedType.cpp"
+	<iostream>
+
+1690072382 c:\users\mahfuz\documents\github\dsa-templates\6. unsorted list using linked list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1690071824 c:\users\mahfuz\documents\github\dsa-templates\6. unsorted list using linked list\unsortedtype.h
+
+1690072382 source:c:\users\mahfuz\documents\github\dsa-templates\6. unsorted list using linked list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
